@@ -6,7 +6,7 @@
 
 <h1 align="center">Hii! I'm Vishnu </h1>
 <br>
-<img src="https://github.com/Getch21/Getch21/blob/main/namaste.gif" alt="🙏🏻">
+<img src="/namaste.gif" alt="🙏🏻">
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
