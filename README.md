@@ -4,16 +4,14 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<h1 align="center">Hii,! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
-<video src="https://github.com/Getch21/Getch21/blob/main/namaste.mp4">
+<h1 align="center">Hii! I'm Vishnu </h1>
+<br>
+<img src="https://github.com/Getch21/Getch21/blob/main/namaste.gif" alt="🙏🏻">
 
-</video>
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Vladimir.<br>
-        Currently learning to walk in ML/DL without falling on my bottom.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        I have no special talents. I am just passionately curious.🤷🏻‍♂️
     </i><br>
     <a href="https://www.linkedin.com/in/wervlad">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
