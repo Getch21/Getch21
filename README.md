@@ -1,6 +1,6 @@
 
 <div  align="center">
-  <div style="background:red; width:100%; hight:20vh;">hufghdsfkjgskfjdgsdgh;sh;gbkj;adfgk;fdhsfd;kjg</div>
+
 <h1 >Hi I'm Vishnu </h1>
 
 <img src="https://getch21.github.io/codeforfun/images/namaste.gif" width="400px" alt="Namaste🙏">
